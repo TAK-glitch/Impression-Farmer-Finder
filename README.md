@@ -29,5 +29,4 @@ src/
   reply_collector.py   # X API取得
   zombie_score.py      # Python一次判定
   gpt_judge.py         # GPT二次判定
-  gpt_judge_test.py    # GPTプロンプト検証用
-  zombie_score_test.py # Python判定テスト用
+　Pi_start.py          # API接続テスト用

@@ -56,7 +56,9 @@ SNS運用時の分析・判定作業の省力化を目的として開発しま�
 以下は、企業SNSアカウントが莫大なエンゲージメント
 （いわゆる「バズ」）を獲得した実際の例です。
 
-![バズ投稿の例](images/buzz_post_blurred.png)
+<p align="center">
+  <img src="images/sample1.png" width="700">
+</p>
 
 * 返信：約307件
 * リポスト：約1万件

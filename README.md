@@ -80,10 +80,10 @@ SNS運用時の分析・判定作業の省力化を目的として開発しま�
 ## 4. スパムアカウントの実例
 以下は、実際に確認されたスパム返信の例です。
 
-![スパム返信例1]<p align="center">
+[スパム返信例1]<p align="center">
   <img src="images/sample2.png" width="700">
 </p>
-![スパム返信例2]<p align="center">
+[スパム返信例2]<p align="center">
   <img src="images/sample3.png" width="700">
 </p>
 
